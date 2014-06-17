@@ -1,3 +1,4 @@
 echo "Simon"
 echo "han"
 echo "chin"
+echo "amani"
